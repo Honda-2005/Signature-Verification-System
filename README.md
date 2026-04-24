@@ -34,18 +34,3 @@ The project focuses on:
 * HTML5
 * CSS3
 * JavaScript
-
-## 📂 Project Structure
-Project/
-│
-├── static/
-│   ├── CSS/
-│   ├── JS/
-│   └── uploads/
-│
-├── templates/
-│   └── Homepage.html
-│
-├── app.py
-└── README.md
-
